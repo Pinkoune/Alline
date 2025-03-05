@@ -28,7 +28,7 @@ Mouse Controller est une application JavaFX qui déplace automatiquement le curs
 
 ### Téléchargement
 
-Téléchargez la dernière version depuis la section [Releases](https://github.com/yourusername/mouse-controller/releases).
+Téléchargez la dernière version depuis la section [Releases](https://github.com/Pinkoune/Alline/releases).
 
 ### Exécution
 
